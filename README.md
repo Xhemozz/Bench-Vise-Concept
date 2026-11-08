@@ -12,7 +12,8 @@ technical drawings, then assembled into a full model.
 ## Parts
 | Part | Image |
 |------|-------|
-| (name of part) | ![](images/part-name.png) |
+| (Base Plate) | <img width="1797" height="1099" alt="image" src="https://github.com/user-attachments/assets/424c8a6a-d50f-4dd9-8380-b46f9b356804" />
+ |
 
 ## Files
 STEP files for every part and the full assembly are in `step-files/`.
