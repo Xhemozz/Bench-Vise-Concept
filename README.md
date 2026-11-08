@@ -1,7 +1,5 @@
 # Bench Vise (Fusion 360)
-
-![Assembled bench vise](<img width="1617" height="943" alt="Screenshot 2026-11-08 111640" src="https://github.com/user-attachments/assets/e4fd4bd8-a840-4dcb-82c6-db3fe6aea425" />
-)
+<img width="1617" height="943" alt="image" src="https://github.com/user-attachments/assets/0843d1cf-d126-4c41-a330-01c97c1b49c6" />
 
 A bench vise modeled in Autodesk Fusion 360: 7 parts built from
 technical drawings, then assembled into a full model.
