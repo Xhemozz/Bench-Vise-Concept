@@ -20,15 +20,5 @@ technical drawings, then assembled into a full model.
 | (Base) |<img width="1592" height="1084" alt="image" src="https://github.com/user-attachments/assets/8c7c086a-7e73-46fd-805f-db3cfd1adc51" />
 | (Jaw Screw) |<img width="1523" height="995" alt="image" src="https://github.com/user-attachments/assets/013613e9-79bd-4e31-8200-1498b68d7c36" />
 
-
-
-
-
-
-
-## Files
-STEP files for every part and the full assembly are in `step-files/`.
-They open in any CAD program.
-
 ## Source
-Modeled from drawings found online: [link or description].
+Modeled from publicly available technical drawings.
