@@ -13,7 +13,8 @@ technical drawings, then assembled into a full model.
 | Part | Image |
 |------|-------|
 | (Base Plate) | <img width="1797" height="1099" alt="image" src="https://github.com/user-attachments/assets/424c8a6a-d50f-4dd9-8380-b46f9b356804" />
- |
+| (Clamping Plate) |<img width="1828" height="1148" alt="image" src="https://github.com/user-attachments/assets/201632a5-dd50-4a5b-bfd1-881a0372eac5" />
+
 
 ## Files
 STEP files for every part and the full assembly are in `step-files/`.
